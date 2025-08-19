@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junesh Kumar</h1>
-<h3 align="center"> Software Enginner</h3>
+<h3 align="center"> Software Engineer</h3>
 
 
 ### About Me
