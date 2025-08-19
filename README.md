@@ -5,7 +5,7 @@
 ### About Me
 -  B.Cs (Software Engineering) with Honours | CGPA: Second Upper-Class
 -  Exploring Machine Learning, Cloud Computing , Fullstack & System Design  
--  Ex-Intern @ JohorPort Sdn Bhd (Full-Stack)
+-  Ex-Intern @ JohorPort Sdn Bhd (Business Application Developer)
 -  Passionate about building scalable tech with real-world impact
 
 ---
