@@ -40,7 +40,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuneshK&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneshK&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuneshK&theme=radical)](https://git.io/streak-stats)  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JuneshK_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/JuneshK_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JuneshK?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/JuneshK/)
 
 </div>
 
@@ -50,9 +50,9 @@
 
 -  **Email:** juneshkumar02@gmail.com  
 -  **Portfolio:** 
--  **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259
+-  **LinkedIn:** 
 -  **GitHub:** [github.com/priyankahotkar](https://github.com/JuneshK)  
--  **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/JuneshK/)
+-  **LeetCode:** [leetcode.com/u/JuneshK_/](https://leetcode.com/u/JuneshK/)
 
 ---
 
