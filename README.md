@@ -29,7 +29,7 @@
 ---
 
 ### 🏅 Accomplishments
-
+- 50+ Leetcode
 
 ---
 
