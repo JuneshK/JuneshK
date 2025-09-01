@@ -48,10 +48,10 @@
 
 ### 📫 Contact Me
 
--  **Email:** juneshkumar02@gmail.com  
+-  **Email:** juneshkumar02@gmail.com    
 -  **Portfolio:** 
 -  **LinkedIn:** 
--  **GitHub:** [github.com/priyankahotkar](https://github.com/JuneshK)  
+-  **GitHub:** [github.com/JuneshK](https://github.com/JuneshK)  
 -  **LeetCode:** [leetcode.com/u/JuneshK_/](https://leetcode.com/u/JuneshK/)
 
 ---
