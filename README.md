@@ -13,13 +13,35 @@
 ### 🛠️ Tech Stack
 
 #### Languages:
-`Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL`
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,python,typescript,php)  
+    
 
-#### Web & Frameworks:
-`React.js`  `Node.js` `Express.js` `MongoDB` `Spring Boot`
+#### Frontend Frameworks:
+![My Skills](https://skillicons.dev/icons?i=react,spring,nextjs,vue,threejs,materialui,tailwindcss,bootstrap,angular) 
 
-#### Databases & Backend:
-`MySQL` `Firebase Realtime DB` `MongoDB` 
+
+#### Databases :
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis) 
+
+    
+#### Backend Frameworks:
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,firebase) 
+
+
+#### Testing Tools :
+![My Skills](https://skillicons.dev/icons?i=selenium,jest,cypress) 
+
+    
+#### DevOps and Cloud:
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,azure,gcp,jenkins) 
+
+    
+#### Machine Learning Data Science Frameworks:
+![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv,sqlite,pytorch,sklearn) 
+
+    
+#### UI/UX Design:
+![My Skills](https://skillicons.dev/icons?i=figma) 
 
 ---
 
@@ -34,13 +56,13 @@
 
 ### 📈 GitHub & LeetCode Stats
 
-<div align="center">
+
 ![JuneshK's Stats](https://github-readme-stats-fvz1g4cx4-juneshks-projects.vercel.app/api?username=JuneshK&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
 ![JuneshK's Top Languages](https://github-readme-stats-fvz1g4cx4-juneshks-projects.vercel.app/api/top-langs/?username=JuneshK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
 ![JuneshK's Streak](https://github-readme-stats-fvz1g4cx4-juneshks-projects.vercel.app/?user=JuneshK&theme=vue-dark&hide_border=true) 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JuneshK?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/JuneshK/)
 
-</div>
+
 
 ---
 
