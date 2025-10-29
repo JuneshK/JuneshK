@@ -35,8 +35,7 @@
 ### 📈 GitHub & LeetCode Stats
 
 <div align="center">
-
-(img src="https://github-readme-stats.vercel.app/api?username=JuneshK&theme=dark&show_icons=true&count_private=true" width="400")  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuneshK&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneshK&layout=compact&theme=dark)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuneshK&theme=dark)](https://git.io/streak-stats)  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JuneshK?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/JuneshK/)
