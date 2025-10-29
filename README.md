@@ -51,6 +51,7 @@
 - Google Hackathon 2025
 - IBM AI Agent Hackathon 2025
 - Toyota GR Hackathon 2025
+- Cursor Hackathon 2025
 
 ---
 
