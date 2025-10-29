@@ -35,7 +35,7 @@
 ### 📈 GitHub & LeetCode Stats
 
 <div align="center">
-![JuneshK's Stats](https://github-readme-stats-qfgiw7g25-juneshk's-projects.vercel.app/api?username=JuneshK&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
+![JuneshK's Stats](https://github-readme-stats-fvz1g4cx4-juneshks-projects.vercel.app/api?username=JuneshK&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) 
 ![JuneshK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneshK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
 ![JuneshK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuneshK&theme=vue-dark&hide_border=true) 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JuneshK?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/JuneshK/)
